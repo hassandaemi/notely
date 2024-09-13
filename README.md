@@ -22,8 +22,8 @@ To get started with Notely, follow these steps:
 
 1. **Clone the repository**:
 <div class="code-with-copy">
-  <pre><code>git clone https://github.com/your-username/notely.git</code></pre>
-  <button class="copy-button" data-clipboard-text="git clone https://github.com/your-username/notely.git"></button>
+  <pre><code>git clone https://github.com/hassandaemi/notely</code></pre>
+  <button class="copy-button" data-clipboard-text="git clone https://github.com/hassandaemi/notely"></button>
 </div>
 
 2. **Install dependencies**:
