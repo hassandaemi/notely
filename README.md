@@ -21,3 +21,20 @@ Notely is an open-source, feature-rich note-taking application built using the F
 To get started with Notely, follow these steps:
 
 1. **Clone the repository**:
+<div class="code-with-copy">
+  <pre><code>git clone https://github.com/your-username/notely.git</code></pre>
+  <button class="copy-button" data-clipboard-text="git clone https://github.com/your-username/notely.git">Copy</button>
+</div>
+
+2. **Install dependencies**:
+<div class="code-with-copy">
+  <pre><code>cd notely
+flutter pub get
+</code></pre><button class="copy-button" data-clipboard-text="cd notely
+flutter pub get">Copy</button></div>
+
+3. **Run the app**:
+<div class="code-with-copy">
+  <pre><code>flutter run</code></pre>
+  <button class="copy-button" data-clipboard-text="flutter run">Copy</button>
+</div>
