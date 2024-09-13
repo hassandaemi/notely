@@ -14,7 +14,7 @@ Notely is an open-source, feature-rich note-taking application built using the F
 
 ## Screenshots
 
-<img src="assets/images/p1.png" width="150"> <img src="assets/images/p2.png" width="150"> <img src="assets/images/p3.png" width="150"> <img src="assets/images/p4.png" width="150"> <img src="assets/images/p5.jpg" width="150"> <img src="assets/images/p6.jpg" width="150">
+<img src="assets/images/p1.png" width="200"> <img src="assets/images/p2.png" width="200"> <img src="assets/images/p3.png" width="200"> <img src="assets/images/p4.png" width="200"> <img src="assets/images/p5.jpg" width="200"> <img src="assets/images/p6.jpg" width="200">
 
 ## Getting Started
 
