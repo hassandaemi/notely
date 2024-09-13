@@ -1,16 +1,23 @@
-# notely
+# Notely - A Flutter-based Note Taking App
 
-A new Flutter project.
+Notely is an open-source, feature-rich note-taking application built using the Flutter framework. It allows users to create, view, edit, and manage their notes with ease.
+
+## Features
+
+- Create new notes with a title and description
+- View and edit existing notes
+- Pin important notes to the top
+- Search for notes by title or description
+- Dark mode support
+- Share notes via various channels (e.g., email, messaging apps)
+- Delete notes
+
+## Screenshots
+
+<img src="assets/images/p1.png" width="300"> <img src="assets/images/p2.png" width="300"> <img src="assets/images/p3.png" width="300"> <img src="assets/images/p4.png" width="300"> <img src="assets/images/p5.png" width="300"> <img src="assets/images/p6.png" width="300">
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with Notely, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**:
